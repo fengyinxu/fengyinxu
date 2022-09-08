@@ -4,17 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fengyinxu&label=Profile%20views&color=0e75b6&style=flat" alt="fengyinxu" /> </p>
 
 
-
-
-- 🌱 I’m currently learning **Node.js、CPP、Python、Algorithm、K8s**
-
-- 💬 Communicate with me about **JavaScript、React、Node.js、Shell、macOS**
-
 - ⚡ Fun fact **I'm cooking🍳**
 
 
-
-<p><img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=fengyinxu&show_icons=true&locale=en&layout=compact" alt="fengyinxu" /></p>
+<figure><embed src="https://wakatime.com/share/@fengyinxu/ea5ca653-8def-4052-b177-b8cb6a3d872c.svg"></embed></figure>
 
 
 
