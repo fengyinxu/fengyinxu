@@ -4,10 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fengyinxu&label=Profile%20views&color=0e75b6&style=flat" alt="fengyinxu" /> </p>
 
 
-- ⚡ Fun fact **I'm cooking🍳**
+- ⚡ A Fun fact **I'm cooking🍳**
 
 
-<figure><embed src="https://wakatime.com/share/@fengyinxu/ea5ca653-8def-4052-b177-b8cb6a3d872c.svg"></embed></figure>
+<figure><img src="https://wakatime.com/share/@fengyinxu/a0b32ac4-7dd6-47fe-97a1-ec5622671db1.svg"></img></figure>
 
 
 
